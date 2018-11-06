@@ -1,2 +1,2 @@
 # Bonjour!
-- [Page 1](Page1.md)
+- [Page 1](page1.md)
