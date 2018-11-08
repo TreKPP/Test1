@@ -5,6 +5,12 @@
 
 ## Typologie de la langue
 
+|Caractéristique|Japonais|
+|---|---|
+|**Ordre des mots**|SOV|
+|**Type de langue**|Agglutinante|
+|**Famille de langues**|Japonique|
+|**Système d'écriture**|Kanji, Hiragana et Katakana|
 <table>
 <tr>
   <td><b>Ordre des mots</b></td>
