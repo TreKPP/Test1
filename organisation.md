@@ -27,13 +27,13 @@
 Une phrase de base (Sujet, Verbe, Objet) en français sera écrite sous l'ordre SOV (Sujet, Objet, Verbe) en japonais. 
 Prenons pour exemple la phrase « Je mange une pomme. » Cette phrase sera écrite comme suit :
 
-<span style="color:blue">私</span> は りんご を 食べます。
+<span style="color:blue">私 は</span> <span style="color:red">りんご を</span> <span style="color:green">食べます</span>。
 
-(Watashi wa ringo o tabemasu.)
+(<span style="color:blue">Watashi wa</span> <span style="color:red">ringo o</span> <span style="color:green">tabemasu</span>.)
 
 (Des espaces entre les mots ont été insérés pour augmenter la clarté, car en japonais il n'y a normalement aucun espace.) 
 
 Mot par mot, cette phrase se traduit par « Je (sujet) pomme (objet) mange. »
 
-
+`<span style="color:blue">abc</span>`
 
