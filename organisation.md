@@ -33,7 +33,7 @@ Prenons pour exemple la phrase « Je mange une pomme. » Cette phrase sera écri
 
 (Des espaces entre les mots ont été insérés pour augmenter la clarté, car en japonais il n'y a normalement aucun espace.) 
 
-Mot par mot, cette phrase se traduit par « Je (sujet) pomme (objet) mange. »
+Mot par mot, cette phrase se traduit par « <span style="color:blue">Je (sujet)</span> <span style="color:red">pomme (objet)</span> <span style="color:green">mange</span>. »
 
 `<span style="color:blue">abc</span>`
 
