@@ -6,7 +6,7 @@
 ## Typologie de la langue
 
 | Caractéristique | Japonais |
-|-|-|
+|---|---|
 | **Ordre des mots** | SOV |
 | **Type de langue** | Agglutinante |
 | **Famille de langues** | Japonique |
