@@ -165,5 +165,5 @@ Bien que seulement deux façons de s'excuser ont été présentées, il y en a b
 
 
 
-`<span style="color:blue">abc</span>`
+<!-- <span style="color:blue">abc</span> -->
 
