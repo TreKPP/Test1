@@ -55,6 +55,81 @@ se lisant toujours *den* et signifiant « électricité ».
 
 ## La formalité 
 
+La langue japonaise est très caractérisées par la formalité du langage. En effet, selon le niveau de politesse que l'on souhaite atteindre, différentes conjugaisons des verbes et adjectifs seront utilisées, différentes façons de référer à nous-même ou l'interlocuteur, et différents mots seront utilisés. 
+
+### Conjugaison des verbes
+
+Le niveau de formalité change tel que suit généralement (Le verbe présenté est le verbe « boire »): 
+
+| Temps | Poli | Translittération | Amical/Informel | Translittération |
+| --- | --- | --- | --- | --- |
+| **Passé** | 飲みました | Nomimashita | 飲んだ | Nonda |
+| **Présent/Futur** | 飲みます | Nomimasu | 飲む | Nomu |
+
+La formalité est souvent montrée par le suffixe *masu* (*mashita* au passé) ou *desu* (verbe « être »)(*deshita* au passé).
+
+### Référer à soi-même
+
+Il existe diverses façons de référer à soi-même selon la formalité et le sexe de celui ou celle qui parle, en voici quelques unes : 
+
+Pour les hommes : 
+
+| Niveau de politesse | Japonais | Translittération |
+| --- | --- | --- |
+| Informel | 俺 | Ore |
+| Neutre | 僕 | Boku |
+| Formel | 私 | Watashi |
+| Très formel | 私 | Watakushi |
+
+Pour les femmes : 
+
+| Niveau de politesse | Japonais | Translittération |
+| --- | --- | --- |
+| Informel (Enfantin) | (Propre nom) | (Propre nom) |
+| Neutre | あたし | Atashi |
+| Formel | 私 | Watashi |
+| Très formel | 私 | Watakushi |
+
+### Référer à celui à qui on parle
+
+Il existe différentes façons de référer à celui à qui on parle, bien que normalement on utilise le nom de la personne en remplacement lorsque l'on connait son nom : 
+
+| Niveau de politesse | Japonais | Translittération |
+| --- | --- | --- |
+| Formel | あなた | Anata |
+| Neutre | 君 | Kimi |
+| Informel (Impoli) | お前 | Omae |
+| Vulgaire (Insultant) | てめえ | Temee |
+| Vulgaire (Insultant) | 貴様 | Kisama |
+
+
+On utilise généralement le nom de famille auquel on ajoute *san* pour référer à quelqu'un dont nous ne sommes pas très proches.
+On utilise le prénom auquel on ajoute généralement *kun* si la personne est un garçon, ou *chan* si c'est une fille. 
+On utilise seulement le nom ou prénom sans ajout si nous sommes proches de la personne.
+
+### Exemple 
+
+Voici une phrase signifiant « Je mange une pomme » écrite de façon informelle : 
+
+俺はりんごを食う。
+(Ore wa ringo o kuu.)
+
+Voici la même phrase écrite plus formellement : 
+
+私はりんごを食べます。
+(Watashi wa ringo o tabemasu.)
+
+Voici la même phrase écrite très poliment : 
+
+私はりんごを召し上がります。
+(Watakushi wa ringo o meshiagarimasu.)
+
+### Quel niveau de politesse dois-je employer ? 
+
+Nous devons utiliser le langage formel lorsque l'on s'adresse à nos supérieurs, des gens plus âgés et des personnes que l'on ne connait pas.
+Nous pouvons utiliser le langage informel avec nos amis et avec des personnes plus jeunes que nous.
+Les femmes utilisent le langage formel plus souvent, même avec des personnes plus jeunes ou avec des amis.
+
 ## Expressions utilisées couramment
 
 Voici quelques expression fréquemment utilisées en japonais : 
@@ -69,6 +144,24 @@ Voici quelques expression fréquemment utilisées en japonais :
 | Excusez-moi | すみません | Sumimasen | すまん | Suman |
 | Désolé | すみません | Sumimasen | ごめん | Gomen |
 | De rien/Il n'y a pas de quoi | どういたしまして | Dou itashimashite | 気にしないで | Ki ni shinai de |
+
+Bien que seulement deux façons de s'excuser ont été présentées, il y en a bien plus, telles que : 
+
+| Formalité | Japonais | Translittération |
+| --- | --- | --- | 
+| Informel | 悪い | Warui
+| Informel | すまん | Suman
+| Informel | すまない | Sumanai
+| Informel | すまなかった | Sumanakatta
+| Informel | ごめん | Gomen
+| Formel | ごめんなさい | Gomennasai
+| Formel | ごめんください | Gomenkudasai
+| Formel | すみません | Sumimasen
+| Formel | すみませんでした | Sumimasen deshita
+| Formel | 申し訳ありません | Moushiwake arimasen
+| Formel | 申し訳ありませんでした | Moushiwake arimasen deshita
+| Formel | 申し訳ございません | Moushiwake gozaimasen
+| Formel | 申し訳ございませんでした | Moushiwake gozaimasen deshita
 
 
 
