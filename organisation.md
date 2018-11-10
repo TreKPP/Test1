@@ -124,6 +124,8 @@ Voici la même phrase écrite très poliment :
 私はりんごを召し上がります。
 (Watakushi wa ringo o meshiagarimasu.)
 
+Nous pouvons voir dans ces exemples que le verbe « manger » a plusieurs formes dépendantes de la formalité voulue (*kuu*, *tabemasu*, *meshiagarimasu*)
+
 ### Quel niveau de politesse dois-je employer ? 
 
 Nous devons utiliser le langage formel lorsque l'on s'adresse à nos supérieurs, des gens plus âgés et des personnes que l'on ne connait pas.
