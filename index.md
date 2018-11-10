@@ -1,3 +1,19 @@
 # Bonjour!
-- [Page 1](composantes.md)
-- [Organisation](organisation.md)
+
+## Si vous n'êtes pas familier avec la typologie des langues...
+
+La typologie des langues est employée lors de la présentation des langues sur ce site, vous pouvez donc en apprendre sur ce sujet en cliquant sur le lien ci-dessous : 
+
+Typologie des langues
+
+## Pourquoi devrions-nous pouvoir utiliser plusieurs langues?
+
+Vous pouvez en apprendre plus sur ce sujet en cliquant sur le lien ci-dessous : 
+
+Les avantages du multilinguisme
+
+## Vous voulez apprendre une langue en particulier et voulez en avoir un léger aperçu ?
+
+Choisissez la langue sur laquelle vous souhaitez en apprendre : 
+
+- [Japonais](japonais.md)
