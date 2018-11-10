@@ -53,6 +53,38 @@ Ce phénomène se reproduit dans la majorité des kanjis, bien que certains n'on
 
 se lisant toujours *den* et signifiant « électricité ».
 
+### Les kanas
+
+Les kanas se divisent en deux grandes familles : Les hiraganas, les katakanas. Les deux alphabets se lisent de la même façon mais ont des usages différents. Contrairement aux kanjis, les kanas sont phonétiques, c'est-à-dire qu'un kana se lit toujours de la même façon et démontre un son et non un mot. 
+
+#### Hiragana
+
+Voici les hiraganas : 
+
+| n seul | w   | r   | y   | m   | h   | n   | t   | s   | k   |     | -   |
+| ---    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+||わ|ら|や|ま|は|な|た|さ|か|あ|a|
+|||り||み|ひ|に|ち|し|き|い|i|
+|ん||る|ゆ|む|ふ|ぬ|つ|す|く|う|u|
+|||れ||め|へ|ね|て|せ|け|え|e|
+||を|ろ|よ|も|ほ|の|と|そ|こ|お|o|
+
+Ils sont utilisés pour les mots d'origine japonaise qui n'ont pas de kanjis et pour les conjugaisons des verbes principalement.
+
+#### Katakana 
+
+Voici les katakanas : 
+
+| n seul | w   | r   | y   | m   | h   | n   | t   | s   | k   |     | -   |
+| ---    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+||ワ|ラ|ヤ|マ|ハ|ナ|タ|サ|カ|ア|a|
+|||リ||ミ|ヒ|ニ|チ|シ|キ|イ|i|
+|ン||ル|ユ|ム|フ|ヌ|ツ|ス|ク|ウ|u|
+|||レ||メ|ヘ|ネ|テ|セ|ケ|エ|e|
+||ヲ|ロ|ヨ|モ|ホ|ノ|ト|ソ|コ|オ|o|
+
+Ils sont utilisés principalement pour les mots d'origine étrangère et les onomatopées.
+
 ## La formalité 
 
 La langue japonaise est très caractérisée par la formalité du langage. En effet, selon le niveau de politesse que l'on souhaite atteindre, différentes conjugaisons des verbes et adjectifs seront utilisées, différentes façons de référer à nous-même ou l'interlocuteur, et différents mots seront utilisés. 
