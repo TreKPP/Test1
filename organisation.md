@@ -11,6 +11,7 @@
 | **Type de langue** | Agglutinante |
 | **Famille de langues** | Japonique |
 | **Système d'écriture** | Kanji, Hiragana et Katakana |
+
 <table>
 <tr>
   <td><b>Ordre des mots</b></td>
@@ -49,7 +50,7 @@ Le système d'écriture japonais se divise en deux grandes familles : Les kanji 
 
 Les kanji sont des caractères d'origine chinoise qui sont d'usage dans la langue japonaise. Selon le gouvernement japonais, 2136 kanji sont nécessaires à la vie quotidienne au Japon, ces 2136 kanji sont enseignés tout au long de la scolarité pré-universitaire. Un kanji a une signification précise et souvent plusieurs prononciations selon dans quel mot il se trouve. Les kanji ont souvent une prononciation dérivée de la langue chinoise ainsi qu'une prononciation d'origine japonaise. Prenons par exemple ce caractère : 
 
-<span style="font-size:+5;"><b>食</b></span>
+<span style="font-size:20;"><b>食</b></span>
 
 
 ## Expressions utilisées couramment
