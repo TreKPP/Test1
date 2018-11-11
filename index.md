@@ -6,7 +6,7 @@ La typologie des langues est employée lors de la présentation des langues sur 
 
 Typologie des langues
 
-## Pourquoi devrions-nous pouvoir utiliser plusieurs langues?
+## Le multilinguisme? Qu'est-ce que cela peut bien m'apporter?
 
 Vous pouvez en apprendre plus sur ce sujet en cliquant sur le lien ci-dessous : 
 
